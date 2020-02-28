@@ -8,6 +8,7 @@ Este es el segundo repositorio para pruebas para el curso de [Git y Github](http
 * Utilizacion de ramas para tener mejor flujo de trabajo
 * A simpre utilizar las buenas practicas :3
 * Unos chistes muy buenos con personas imaginarias
+* Hola, hola hoal :v
 * Etc
 
 Y todo esto es solo una prueba, si quieres ver algo interesante mira algunos arcticulos sobre Marchine Learnig que eso seguro te entretiene aun mas 😉
